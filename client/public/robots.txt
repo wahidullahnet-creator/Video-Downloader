@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Exclude backend internal routes
+Disallow: /api/
+Disallow: /uploads/
+
+# Sitemap location
+Sitemap: https://video-downloader-pro.com/sitemap.xml

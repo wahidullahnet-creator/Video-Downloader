@@ -1,0 +1,11 @@
+{
+  "name": "video-downloader-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Video Downloader Pro Root Workspace",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "clean": "cd server && node -e \"require('./utils/storageCleaner').emptyAllStorageFolders([__dirname + '/uploads', __dirname + '/temp'])\""
+  }
+}

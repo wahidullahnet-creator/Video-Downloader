@@ -1,13 +1,14 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Video Downloader Express Backend",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "WahidDevAnny",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
@@ -15,11 +16,5 @@
     "express": "^5.2.1",
     "play-dl": "^1.9.7",
     "yt-dlp-exec": "^1.0.2"
-  }
-}
-
-{
-  "scripts": {
-    "start": "node server.js"
   }
 }
