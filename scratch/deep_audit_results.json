@@ -1,0 +1,545 @@
+{
+  "site_info": {
+    "name": "Net Skill Forever",
+    "description": "learn and Grow",
+    "url": "https://netskillforever.com",
+    "namespaces": [
+      "oembed/1.0",
+      "aioseo/v1",
+      "aioseoBrokenLinkChecker/v1",
+      "hostinger-easy-onboarding/v1",
+      "litespeed/v1",
+      "litespeed/v3",
+      "yoast/v1",
+      "elementor-mcp-composer/v1.0.17",
+      "elementor-one/v1",
+      "complianz/v1",
+      "hostinger-amplitude/v1",
+      "userfeedback/v1",
+      "wp-statistics/v2",
+      "astra/v1",
+      "elementor/v1/documents",
+      "elementor/v1",
+      "elementor-ai/v1",
+      "elementor/v1/feedback",
+      "omapp/v1",
+      "wpforms/v1",
+      "nps-survey/v1",
+      "mcp",
+      "wp/v2",
+      "wp-site-health/v1",
+      "wp-block-editor/v1",
+      "wp-abilities/v1"
+    ]
+  },
+  "robots_txt": "Sitemap: https://netskillforever.com/sitemap.xml\r\nSitemap: https://netskillforever.com/sitemap.rss\n\n# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://netskillforever.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK",
+  "sitemap_status": "wp-sitemap.xml: 200 | sitemap_index.xml: 200",
+  "total_posts": 45,
+  "total_pages": 8,
+  "total_categories": 9,
+  "total_tags": 2,
+  "posts_details": [
+    {
+      "id": 1566,
+      "title": "Best AI Tools for Freelancers in 2026 [Full Guide]",
+      "slug": "best-ai-tools-for-freelancers-and-remote-workers-2026",
+      "link": "https://netskillforever.com/best-ai-tools-for-freelancers-and-remote-workers-2026/",
+      "word_count": 1082,
+      "issues": [
+        "Missing featured image"
+      ]
+    },
+    {
+      "id": 1554,
+      "title": "Web Development Roadmap for Beginners in 2026",
+      "slug": "how-to-start-web-development-for-beginners-2026-roadmap",
+      "link": "https://netskillforever.com/how-to-start-web-development-for-beginners-2026-roadmap/",
+      "word_count": 1174,
+      "issues": [
+        "Missing featured image"
+      ]
+    },
+    {
+      "id": 1415,
+      "title": "Cybersecurity Practices for Remote Workers in 2026",
+      "slug": "cybersecurity-best-practices-for-remote-workers",
+      "link": "https://netskillforever.com/cybersecurity-best-practices-for-remote-workers/",
+      "word_count": 1030,
+      "issues": []
+    },
+    {
+      "id": 1414,
+      "title": "ChatGPT for Digital Marketing: 10 Real-World Use Cases",
+      "slug": "chatgpt-for-digital-marketing-use-cases",
+      "link": "https://netskillforever.com/chatgpt-for-digital-marketing-use-cases/",
+      "word_count": 1032,
+      "issues": []
+    },
+    {
+      "id": 1413,
+      "title": "Optimize Core Web Vitals in WordPress for Speed",
+      "slug": "how-to-optimize-core-web-vitals-in-wordpress-speed",
+      "link": "https://netskillforever.com/how-to-optimize-core-web-vitals-in-wordpress-speed/",
+      "word_count": 1069,
+      "issues": []
+    },
+    {
+      "id": 1402,
+      "title": "Excel Formulas & Functions Guide for Data Analysis",
+      "slug": "microsoft-excel-formulas-and-functions-guide-data-analysis",
+      "link": "https://netskillforever.com/microsoft-excel-formulas-and-functions-guide-data-analysis/",
+      "word_count": 1048,
+      "issues": []
+    },
+    {
+      "id": 1401,
+      "title": "How to Optimize Fiverr Gig for Top Ranking: Complete Guide",
+      "slug": "how-to-optimize-fiverr-gig-for-top-ranking-guide",
+      "link": "https://netskillforever.com/how-to-optimize-fiverr-gig-for-top-ranking-guide/",
+      "word_count": 1059,
+      "issues": []
+    },
+    {
+      "id": 1400,
+      "title": "Social Media Strategy for Organic Growth: 2026",
+      "slug": "social-media-marketing-strategy-for-organic-growth-guide",
+      "link": "https://netskillforever.com/social-media-marketing-strategy-for-organic-growth-guide/",
+      "word_count": 1043,
+      "issues": []
+    },
+    {
+      "id": 1399,
+      "title": "Ethical Hacking Guide: Penetration Testing Basics",
+      "slug": "ethical-hacking-guide-for-beginners-penetration-testing",
+      "link": "https://netskillforever.com/ethical-hacking-guide-for-beginners-penetration-testing/",
+      "word_count": 1030,
+      "issues": []
+    },
+    {
+      "id": 1398,
+      "title": "AI Video Creation Tools for YouTube Automation: Full Guide",
+      "slug": "ai-video-creation-tools-for-youtube-automation-guide",
+      "link": "https://netskillforever.com/ai-video-creation-tools-for-youtube-automation-guide/",
+      "word_count": 1048,
+      "issues": []
+    },
+    {
+      "id": 1397,
+      "title": "How to Start a WooCommerce Store Step-by-Step: 2026 Guide",
+      "slug": "how-to-start-a-woocommerce-store-step-by-step-guide",
+      "link": "https://netskillforever.com/how-to-start-a-woocommerce-store-step-by-step-guide/",
+      "word_count": 1047,
+      "issues": []
+    },
+    {
+      "id": 1396,
+      "title": "Figma UI UX Design Tutorial for Beginners: Complete Guide",
+      "slug": "figma-ui-ux-design-tutorial-for-beginners-guide",
+      "link": "https://netskillforever.com/figma-ui-ux-design-tutorial-for-beginners-guide/",
+      "word_count": 1048,
+      "issues": []
+    },
+    {
+      "id": 1395,
+      "title": "Python Programming Roadmap for Beginners 2026",
+      "slug": "python-programming-roadmap-for-beginners-learn-python",
+      "link": "https://netskillforever.com/python-programming-roadmap-for-beginners-learn-python/",
+      "word_count": 1047,
+      "issues": []
+    },
+    {
+      "id": 1392,
+      "title": "Cloud Computing Basics: AWS, Azure & Cloud Types",
+      "slug": "cloud-computing-basics-for-beginners-aws-azure",
+      "link": "https://netskillforever.com/cloud-computing-basics-for-beginners-aws-azure/",
+      "word_count": 1048,
+      "issues": []
+    },
+    {
+      "id": 1391,
+      "title": "Get High-Paying Freelance Clients: Outreach Guide",
+      "slug": "how-to-get-high-paying-freelance-clients-outreach-guide",
+      "link": "https://netskillforever.com/how-to-get-high-paying-freelance-clients-outreach-guide/",
+      "word_count": 1048,
+      "issues": []
+    },
+    {
+      "id": 1390,
+      "title": "Prevent Phishing Attacks in Business: Safety Guide",
+      "slug": "how-to-prevent-phishing-attacks-in-business-guide",
+      "link": "https://netskillforever.com/how-to-prevent-phishing-attacks-in-business-guide/",
+      "word_count": 1052,
+      "issues": []
+    },
+    {
+      "id": 1389,
+      "title": "Local SEO Strategy: Rank #1 on Google Maps",
+      "slug": "local-seo-strategy-for-small-business-google-maps",
+      "link": "https://netskillforever.com/local-seo-strategy-for-small-business-google-maps/",
+      "word_count": 1065,
+      "issues": []
+    },
+    {
+      "id": 1388,
+      "title": "React JS Tutorial for Beginners: Step-by-Step",
+      "slug": "react-js-tutorial-for-beginners-step-by-step-guide",
+      "link": "https://netskillforever.com/react-js-tutorial-for-beginners-step-by-step-guide/",
+      "word_count": 1058,
+      "issues": []
+    },
+    {
+      "id": 1387,
+      "title": "Prompt Engineering Guide: How to Write AI Prompts",
+      "slug": "prompt-engineering-guide-for-beginners-ai-prompts",
+      "link": "https://netskillforever.com/prompt-engineering-guide-for-beginners-ai-prompts/",
+      "word_count": 1059,
+      "issues": []
+    },
+    {
+      "id": 1367,
+      "title": "Mastering SEO in 2026: Google Ranking Strategy",
+      "slug": "mastering-seo-ranking-strategy-2026",
+      "link": "https://netskillforever.com/mastering-seo-ranking-strategy-2026/",
+      "word_count": 1021,
+      "issues": []
+    },
+    {
+      "id": 1366,
+      "title": "7 High-Income Freelancing Skills for 2026",
+      "slug": "work-from-home-high-income-freelancing-skills-2026",
+      "link": "https://netskillforever.com/work-from-home-high-income-freelancing-skills-2026/",
+      "word_count": 1037,
+      "issues": []
+    },
+    {
+      "id": 1365,
+      "title": "Learn Full-Stack Web Development: 2026 Roadmap",
+      "slug": "learn-full-stack-web-development-roadmap-2026",
+      "link": "https://netskillforever.com/learn-full-stack-web-development-roadmap-2026/",
+      "word_count": 1014,
+      "issues": []
+    },
+    {
+      "id": 1364,
+      "title": "Ultimate Cybersecurity Handbook 2026: Protect Your Assets",
+      "slug": "ultimate-cybersecurity-handbook-2026",
+      "link": "https://netskillforever.com/ultimate-cybersecurity-handbook-2026/",
+      "word_count": 1019,
+      "issues": []
+    },
+    {
+      "id": 1363,
+      "title": "AI Tools & Automation Guide 2026: Boost Your Career",
+      "slug": "ai-tools-automation-guide-2026",
+      "link": "https://netskillforever.com/ai-tools-automation-guide-2026/",
+      "word_count": 1037,
+      "issues": []
+    },
+    {
+      "id": 1362,
+      "title": "Top 10 High-Paying Digital Skills in 2026",
+      "slug": "top-10-high-paying-digital-skills-2026",
+      "link": "https://netskillforever.com/top-10-high-paying-digital-skills-2026/",
+      "word_count": 1048,
+      "issues": []
+    },
+    {
+      "id": 1326,
+      "title": "OpenAI Security Test Shows AI Escape Flaws",
+      "slug": "openai-security-test-reveals-ai-exploited-software-flaws-to-escape-isolated-environment-ai-security-evaluation-uncovers-unexpected-cyber-capabilities",
+      "link": "https://netskillforever.com/openai-security-test-reveals-ai-exploited-software-flaws-to-escape-isolated-environment-ai-security-evaluation-uncovers-unexpected-cyber-capabilities/",
+      "word_count": 1431,
+      "issues": []
+    },
+    {
+      "id": 1317,
+      "title": "Pakistan IT Sector Hits Record $4.6B Exports",
+      "slug": "pakistans-it-sector-targets-ai-led-growth-as-exports-reach-record-4-6-billion",
+      "link": "https://netskillforever.com/pakistans-it-sector-targets-ai-led-growth-as-exports-reach-record-4-6-billion/",
+      "word_count": 514,
+      "issues": []
+    },
+    {
+      "id": 1305,
+      "title": "Google Earth AI Satellite Image Tool",
+      "slug": "google-earth-ai-image-tool-fake-satellite-images",
+      "link": "https://netskillforever.com/google-earth-ai-image-tool-fake-satellite-images/",
+      "word_count": 860,
+      "issues": []
+    },
+    {
+      "id": 1147,
+      "title": "Cybersecurity & Network Protection Essentials",
+      "slug": "cybersecurity",
+      "link": "https://netskillforever.com/cybersecurity/",
+      "word_count": 944,
+      "issues": []
+    },
+    {
+      "id": 1083,
+      "title": "Professional Blogging Guide: Write & Monetize",
+      "slug": "blogging",
+      "link": "https://netskillforever.com/blogging/",
+      "word_count": 1029,
+      "issues": []
+    },
+    {
+      "id": 1032,
+      "title": "Content Creation & Audience Engagement Guide",
+      "slug": "content-creation",
+      "link": "https://netskillforever.com/content-creation/",
+      "word_count": 1159,
+      "issues": []
+    },
+    {
+      "id": 972,
+      "title": "Digital Marketing Strategy Guide 2026",
+      "slug": "digital-marketing",
+      "link": "https://netskillforever.com/digital-marketing/",
+      "word_count": 852,
+      "issues": []
+    },
+    {
+      "id": 953,
+      "title": "Accountant: The Backbone of Financial Success",
+      "slug": "accountant-the-backbone-of-financial-success",
+      "link": "https://netskillforever.com/accountant-the-backbone-of-financial-success/",
+      "word_count": 551,
+      "issues": []
+    },
+    {
+      "id": 939,
+      "title": "Basic Computer Skills & Tech Fundamentals",
+      "slug": "basic-computer-and-technology",
+      "link": "https://netskillforever.com/basic-computer-and-technology/",
+      "word_count": 709,
+      "issues": []
+    },
+    {
+      "id": 813,
+      "title": "Why Hiring a WordPress Developer Matters",
+      "slug": "a-wordpress-developer-is-essential-for-modern-business-growth",
+      "link": "https://netskillforever.com/a-wordpress-developer-is-essential-for-modern-business-growth/",
+      "word_count": 1152,
+      "issues": []
+    },
+    {
+      "id": 728,
+      "title": "Future of Web Development: Digital Trends Guide",
+      "slug": "the-future-of-web-development-building-digital-experiences-that-matter",
+      "link": "https://netskillforever.com/the-future-of-web-development-building-digital-experiences-that-matter/",
+      "word_count": 948,
+      "issues": []
+    },
+    {
+      "id": 484,
+      "title": "Artificial Intelligence Guide: Future Smart Tech",
+      "slug": "what-is-artificial-intelligence",
+      "link": "https://netskillforever.com/what-is-artificial-intelligence/",
+      "word_count": 1310,
+      "issues": []
+    },
+    {
+      "id": 463,
+      "title": "What Is SEO? Ultimate Search Engine Guide",
+      "slug": "what-is-seo-a-detailed-guide-to-search-engine-optimization-for-long-term-success",
+      "link": "https://netskillforever.com/what-is-seo-a-detailed-guide-to-search-engine-optimization-for-long-term-success/",
+      "word_count": 1134,
+      "issues": []
+    },
+    {
+      "id": 439,
+      "title": "E-Commerce Guide: How to Start & Grow Online",
+      "slug": "e-commerce-guide-learn-how-to-start-grow-and-earn-monthly-income-online",
+      "link": "https://netskillforever.com/e-commerce-guide-learn-how-to-start-grow-and-earn-monthly-income-online/",
+      "word_count": 1135,
+      "issues": []
+    },
+    {
+      "id": 406,
+      "title": "The Rise of Freelancing: Succeed in Gig Economy",
+      "slug": "the-rise-of-freelancing-how-to-start-and-succeed-in-the-gig-economy",
+      "link": "https://netskillforever.com/the-rise-of-freelancing-how-to-start-and-succeed-in-the-gig-economy/",
+      "word_count": 512,
+      "issues": []
+    },
+    {
+      "id": 392,
+      "title": "Video Editing Masterclass: Learn Video Creation & Editing",
+      "slug": "video-editing-course",
+      "link": "https://netskillforever.com/video-editing-course/",
+      "word_count": 461,
+      "issues": [
+        "Low word count (461 words) - recommend > 600 for AdSense value"
+      ]
+    },
+    {
+      "id": 321,
+      "title": "Graphic Design Basics: Tools & Techniques for Beginners",
+      "slug": "graphic-design",
+      "link": "https://netskillforever.com/graphic-design/",
+      "word_count": 469,
+      "issues": [
+        "Low word count (469 words) - recommend > 600 for AdSense value"
+      ]
+    },
+    {
+      "id": 295,
+      "title": "Digital Marketing Learn and Grow",
+      "slug": "digital-marketing-learn-and-grow",
+      "link": "https://netskillforever.com/digital-marketing-learn-and-grow/",
+      "word_count": 795,
+      "issues": []
+    },
+    {
+      "id": 187,
+      "title": "Complete Office Automation & MS Office Software Guide",
+      "slug": "4-office-automation-5-window-installation-microsoft-office-its-come-into-microsoft-word-microsoft-excel-and-microsoft-powerpoint",
+      "link": "https://netskillforever.com/4-office-automation-5-window-installation-microsoft-office-its-come-into-microsoft-word-microsoft-excel-and-microsoft-powerpoint/",
+      "word_count": 947,
+      "issues": []
+    },
+    {
+      "id": 127,
+      "title": "Essential English Typing & Basic Computer Skills Guide",
+      "slug": "1-english-typing-2-basic-computer-and-technology",
+      "link": "https://netskillforever.com/1-english-typing-2-basic-computer-and-technology/",
+      "word_count": 355,
+      "issues": [
+        "Low word count (355 words) - recommend > 600 for AdSense value"
+      ]
+    }
+  ],
+  "pages_details": [
+    {
+      "id": 1412,
+      "title": "Disclaimer",
+      "slug": "disclaimer",
+      "word_count": 241,
+      "issues": []
+    },
+    {
+      "id": 1385,
+      "title": "Terms and Conditions",
+      "slug": "terms-and-conditions",
+      "word_count": 237,
+      "issues": []
+    },
+    {
+      "id": 474,
+      "title": "Privacy Policy",
+      "slug": "privacy-policy-2",
+      "word_count": 464,
+      "issues": []
+    },
+    {
+      "id": 40,
+      "title": "Contact Us",
+      "slug": "contact",
+      "word_count": 77,
+      "issues": []
+    },
+    {
+      "id": 38,
+      "title": "Blogs",
+      "slug": "blogs",
+      "word_count": 1638,
+      "issues": []
+    },
+    {
+      "id": 36,
+      "title": "About Us",
+      "slug": "about",
+      "word_count": 169,
+      "issues": []
+    },
+    {
+      "id": 34,
+      "title": "Skills",
+      "slug": "skills",
+      "word_count": 181,
+      "issues": []
+    },
+    {
+      "id": 30,
+      "title": "Home",
+      "slug": "home-2",
+      "word_count": 1457,
+      "issues": []
+    }
+  ],
+  "categories_details": [
+    {
+      "id": 32,
+      "name": "AI &amp; Automation",
+      "slug": "ai-automation",
+      "count": 11,
+      "issues": []
+    },
+    {
+      "id": 11,
+      "name": "Blogs",
+      "slug": "newpost",
+      "count": 0,
+      "issues": [
+        "Empty category (causes 404/thin page flags in Google)",
+        "Unoptimized/Default slug name"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "count": 5,
+      "issues": []
+    },
+    {
+      "id": 28,
+      "name": "Digital Marketing",
+      "slug": "digital-marketing",
+      "count": 7,
+      "issues": []
+    },
+    {
+      "id": 33,
+      "name": "Digital Skills",
+      "slug": "digital-skills",
+      "count": 9,
+      "issues": []
+    },
+    {
+      "id": 29,
+      "name": "Freelancing",
+      "slug": "freelancing",
+      "count": 4,
+      "issues": []
+    },
+    {
+      "id": 12,
+      "name": "New Post",
+      "slug": "newpost-newpost",
+      "count": 0,
+      "issues": [
+        "Empty category (causes 404/thin page flags in Google)",
+        "Unoptimized/Default slug name"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "count": 0,
+      "issues": [
+        "Empty category (causes 404/thin page flags in Google)"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Web Development",
+      "slug": "web-development",
+      "count": 9,
+      "issues": []
+    }
+  ],
+  "adsense_policy_issues": []
+}

@@ -1,0 +1,281 @@
+{
+  "total_posts": 20,
+  "total_pages": 6,
+  "total_categories": 3,
+  "total_thin_content": 0,
+  "total_missing_meta": 0,
+  "total_long_titles": 11,
+  "total_short_titles": 7,
+  "total_missing_images": 0,
+  "posts_report": [
+    {
+      "id": 1326,
+      "title": "OpenAI Security Test Reveals AI Exploited Software Flaws to Escape Isolated Environment AI Security Evaluation Uncovers Unexpected Cyber Capabilities",
+      "link": "https://netskillforever.com/openai-security-test-reveals-ai-exploited-software-flaws-to-escape-isolated-environment-ai-security-evaluation-uncovers-unexpected-cyber-capabilities/",
+      "title_length": 149,
+      "word_count": 1431,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 1317,
+      "title": "Pakistan\u2019s IT Sector Targets AI-Led Growth as Exports Reach Record $4.6 Billion",
+      "link": "https://netskillforever.com/pakistans-it-sector-targets-ai-led-growth-as-exports-reach-record-4-6-billion/",
+      "title_length": 79,
+      "word_count": 514,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 1305,
+      "title": "Google Introduces AI Image Creation in Google Earth, Raising Concerns Over Fake Satellite Images",
+      "link": "https://netskillforever.com/google-earth-ai-image-tool-fake-satellite-images/",
+      "title_length": 96,
+      "word_count": 860,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 1147,
+      "title": "Cybersecurity",
+      "link": "https://netskillforever.com/cybersecurity/",
+      "title_length": 13,
+      "word_count": 944,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 1083,
+      "title": "Blogging",
+      "link": "https://netskillforever.com/blogging/",
+      "title_length": 8,
+      "word_count": 1029,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 1032,
+      "title": "Content Creation",
+      "link": "https://netskillforever.com/content-creation/",
+      "title_length": 16,
+      "word_count": 1159,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 972,
+      "title": "Digital Marketing",
+      "link": "https://netskillforever.com/digital-marketing/",
+      "title_length": 17,
+      "word_count": 852,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 953,
+      "title": "Accountant: The Backbone of Financial Success",
+      "link": "https://netskillforever.com/accountant-the-backbone-of-financial-success/",
+      "title_length": 45,
+      "word_count": 551,
+      "issues": []
+    },
+    {
+      "id": 939,
+      "title": "Basic Computer and Technology",
+      "link": "https://netskillforever.com/basic-computer-and-technology/",
+      "title_length": 29,
+      "word_count": 709,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 813,
+      "title": "A WordPress Developer Is Essential for Modern Business Growth",
+      "link": "https://netskillforever.com/a-wordpress-developer-is-essential-for-modern-business-growth/",
+      "title_length": 61,
+      "word_count": 1152,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 728,
+      "title": "The Future of Web Development: Building Digital Experiences That Matter",
+      "link": "https://netskillforever.com/the-future-of-web-development-building-digital-experiences-that-matter/",
+      "title_length": 71,
+      "word_count": 948,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 484,
+      "title": "AI Artificial Intelligence (AI): The Future of Smart Technology",
+      "link": "https://netskillforever.com/what-is-artificial-intelligence/",
+      "title_length": 63,
+      "word_count": 1310,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 463,
+      "title": "What Is SEO? A Detailed Guide to Search Engine Optimization for Long-Term Success",
+      "link": "https://netskillforever.com/what-is-seo-a-detailed-guide-to-search-engine-optimization-for-long-term-success/",
+      "title_length": 81,
+      "word_count": 1134,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 439,
+      "title": "E-Commerce Guide: Learn How to Start, Grow, and Earn Monthly Income Online",
+      "link": "https://netskillforever.com/e-commerce-guide-learn-how-to-start-grow-and-earn-monthly-income-online/",
+      "title_length": 74,
+      "word_count": 1135,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 406,
+      "title": "The Rise of Freelancing: How to Start and Succeed in the Gig Economy",
+      "link": "https://netskillforever.com/the-rise-of-freelancing-how-to-start-and-succeed-in-the-gig-economy/",
+      "title_length": 68,
+      "word_count": 512,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 392,
+      "title": "Video Editing Course",
+      "link": "https://netskillforever.com/video-editing-course/",
+      "title_length": 20,
+      "word_count": 461,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 321,
+      "title": "Graphic Design",
+      "link": "https://netskillforever.com/graphic-design/",
+      "title_length": 14,
+      "word_count": 463,
+      "issues": [
+        "Title too short (< 30 chars)"
+      ]
+    },
+    {
+      "id": 295,
+      "title": "Digital Marketing Learn and Grow",
+      "link": "https://netskillforever.com/digital-marketing-learn-and-grow/",
+      "title_length": 32,
+      "word_count": 795,
+      "issues": []
+    },
+    {
+      "id": 187,
+      "title": "4.Office Automation, 5. Window installation, 6.Microsoft Office it\u2019s come into (Microsoft Word, Microsoft Excel, and Microsoft PowerPoint)",
+      "link": "https://netskillforever.com/4-office-automation-5-window-installation-microsoft-office-its-come-into-microsoft-word-microsoft-excel-and-microsoft-powerpoint/",
+      "title_length": 138,
+      "word_count": 947,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "1. English Typing, 2. Basic Computer and Technology, 3. Hardware and Networking",
+      "link": "https://netskillforever.com/1-english-typing-2-basic-computer-and-technology/",
+      "title_length": 79,
+      "word_count": 370,
+      "issues": [
+        "Title too long (> 60 chars)"
+      ]
+    }
+  ],
+  "pages_report": [
+    {
+      "id": 474,
+      "title": "Privacy Policy",
+      "link": "https://netskillforever.com/privacy-policy-2/",
+      "word_count": 748,
+      "issues": [
+        "Title too short"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Contact",
+      "link": "https://netskillforever.com/contact/",
+      "word_count": 107,
+      "issues": [
+        "Title too short"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Blogs",
+      "link": "https://netskillforever.com/blogs/",
+      "word_count": 342,
+      "issues": [
+        "Title too short"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "About",
+      "link": "https://netskillforever.com/about/",
+      "word_count": 124,
+      "issues": [
+        "Title too short"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Skills",
+      "link": "https://netskillforever.com/skills/",
+      "word_count": 124,
+      "issues": [
+        "Title too short"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Home",
+      "link": "https://netskillforever.com/",
+      "word_count": 929,
+      "issues": [
+        "Title too short"
+      ]
+    }
+  ],
+  "category_summary": [
+    {
+      "name": "Blogs",
+      "slug": "newpost",
+      "count": 16
+    },
+    {
+      "name": "New Post",
+      "slug": "newpost-newpost",
+      "count": 20
+    },
+    {
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "count": 0
+    }
+  ]
+}
